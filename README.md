@@ -1,5 +1,3 @@
----
-
 # School Management System - Node.js APIs
 
 This project provides a set of Node.js APIs for managing school data. The system allows users to add new schools and retrieve a list of schools sorted by proximity to a specified location using the MySQL database.
